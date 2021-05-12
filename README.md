@@ -11,4 +11,7 @@ Win10  VisualStudio2019  多字符集编码   x86
         部分OpCode(mov,add,nop)，
         ModR/M，
         SIB，
-        立即数
+        立即数。
+       
+### 需要完善：
+  指令解析部分，让其支持解析更多的指令。
