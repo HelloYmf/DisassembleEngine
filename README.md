@@ -5,6 +5,10 @@ Win10  VisualStudio2019 Win32SDK 多字节集 x86
 
 ### 介绍：
 基于Win32 SDK实现的带有图形界面的反汇编引擎，基本框架已经完成。支持16位和32位模式下对Intel指令的解析。
+
+### 用到知识：
+
+硬编码(Intel白皮书)
     
 ### 目前可以解析：
 前缀指令，部分OpCode(mov,add,nop)，ModR/M，SIB，立即数。
